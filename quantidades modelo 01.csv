@@ -1,34 +1,37 @@
 Description	Value	Unit
 Área total do terreno	70	m²
-Volume de fundações	8.2404	m³
-Área horizontal de fundações	13.734	m²
-Área vertical de fundações	49.188	m²
-Volume de estrutura de concreto	0.304	m³
-Área horizontal de estrutura de concreto	0	m²
-Área vertical de estutura de concreto	3.352	m²
-Área vertical de parede de 14cm	172.989	m²
+Volume de fundações	4.4376	m³
+Área horizontal de fundações	10.815	m²
+Área vertical de fundações	41.952	m²
+Volume de vigas	0.0093008	m³
+Área horizontal de vigas	0	m²
+Área vertical de vigas	1.4446504	m²
+Área vertical de parede de 14cm	173.655000252	m²
 Área vertical de parede de gesso 7cm	44.752	m²
 Comprimento de janelas	7.05	m
 Comprimento de portas	3.3	m
 Área de cobertura	45.14	m²
-Área total de piso	38.7251	m²
-Área de piso de cimento queimado	32.0946	m²
-Área de piso cerâmico	8.76747	m²
+Área total de piso	41.6027	m²
+Área de piso de cimento queimado	32.094625	m²
+Área de piso cerâmico	8.767474999999999	m²
 Comprimento de rodapé	44.52	m
 Área de jardim	21.62	m²
 Área vertical de muros	20	m²
 Perímetrodo terreno	38	m
-Número de caixas de passagem	28
-Número de interuptores	8
-Número de tomadas simples	11
-Número de tomadas duplas	4
-Número de pontos de luz	8
+Número de caixas de passagem	28	
+Número de interuptores	8	
+Número de tomadas simples	11	
+Número de tomadas duplas	4	
+Número de pontos de luz	8	
 Área de portas	6.93	m²
-Comprimento de calha	12	m
-Comprimento de rufo	4.28	m
+Comprimento de calha	13	m
+Comprimento de rufo	5.78	m
 Tubulação de águas pluviais	5.3	m
-Tubulação de água fria	14.355	m
-Tubulação de esgoto	11.6498	m
-Tubulação de águas fecais	4.39506	m
-Fiação simples	75.434	m
-Fiação dupla	9.41445	m
+Tubulação de água fria	26.3717395966	m
+Tubulação de esgoto	15.249875043	m
+Tubulação de águas fecais	4.39506057384	m
+Fiação simples	74.9366628536	m
+Fiação dupla	9.414445039149999	m
+Área de telha	47.378851	m²
+Comprimento de viga de cobertura	31	m
+Comprimento de terças de cobertura	70.79000000000001	m

@@ -1,12 +1,12 @@
 Description	Value	Unit
 Área total do terreno	70	m²
-Volume de fundações	4.4376	m³
-Área horizontal de fundações	10.815	m²
-Área vertical de fundações	41.952	m²
+Volume de fundações	5.49394	m³
+Área horizontal de fundações	13.51515	m²
+Área vertical de fundações	46.804	m²
 Volume de vigas	0.0093008	m³
 Área horizontal de vigas	0	m²
 Área vertical de vigas	1.4446504	m²
-Área vertical de parede de 14cm	173.655000252	m²
+Área vertical de parede de 14cm	174.605000252	m²
 Área vertical de parede de gesso 7cm	44.752	m²
 Comprimento de janelas	7.05	m
 Comprimento de portas	3.3	m
@@ -30,8 +30,9 @@ Tubulação de águas pluviais	5.3	m
 Tubulação de água fria	26.3717395966	m
 Tubulação de esgoto	15.249875043	m
 Tubulação de águas fecais	4.39506057384	m
-Fiação simples	74.9366628536	m
+Fiação simples	75.0275090615	m
 Fiação dupla	9.414445039149999	m
 Área de telha	47.378851	m²
 Comprimento de viga de cobertura	31	m
 Comprimento de terças de cobertura	70.79000000000001	m
+Área de revestimento cerâmico	53.413	m²

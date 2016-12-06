@@ -40,7 +40,7 @@ O projeto inclui fundações já calculadas para que no futuro possua um andar s
 
 A cobertura também é descolada da laje, com ampla ventilação, para não transmitir o calor, melhorando o isolamento térmico.
 
-![](render/0017.jpg)
+![](render/0010.jpg)
 
 Começamos o projeto dessa casa pelo [orçamento](https://github.com/uncreatednet/casa-economica/blob/master/or%C3%A7amento%20modelo%2001.ods), o qual pretendemos que esteja em constante evolução. Ela custa, em sua versão mínima porem completamente habitável, menos de R$ 55 000. Em conjunto com os arquivos de desenho do projeto, estamos disponibilizando um arquivo com a tabela do orçamento. Usamos como fonte o [SINAPI, os preços da PMSP, DO FDE-SP](http://www.uncreated.net/priceapi/webprice.py) e outras fontes publicas, discriminadas a cada item. Todos esses campos podem ser trocados, permitindo que cada um pegue essa listagem em sua cidade e consiga saber quanto que uma casa como essa poderia custar.  Para chegarmos a esse preço, usamos os preços mais altos que encontramos, o que significa que provavelmente ela custara menos que isso, mas queríamos evitar surpresas desagradáveis.
 

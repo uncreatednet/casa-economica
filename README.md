@@ -18,13 +18,13 @@ Qual o máximo que podemos fazer com um mínimo de custo? Quais seriam as soluç
 
 ## Casa max-min
 
-Nossa busca foi por uma solução pratica e de qualidade, que pudesse ser executada facilmente e que permitisse reduzir os custos iniciais para facilitar o financiamento. Partimos de duas ideias inspiradas pelo Aravena para montar o nosso projeto de meia casa "boa" e economizar custos:
+Nossa busca foi por uma solução urbana, pratica e de qualidade, que pudesse ser executada facilmente e que permitisse reduzir os custos iniciais para facilitar o financiamento. Partimos de duas ideias inspiradas pelo Aravena para montar o nosso projeto de meia casa "boa" e economizar custos:
 
 1. A casa pode ser aumentada.
 
 2. Parte do acabamento é feita posteriormente.
 
-Esse projeto é um projeto piloto. Ele foi desenvolvido para ser o ponto de partida para outras ideias, ser adaptado caso a caso, terreno a terreno, família a família.
+Esse projeto é um projeto piloto. Ele foi desenvolvido para ser o ponto de partida para outras ideias, ser adaptado caso a caso, terreno a terreno, família a família. É uma casa pensada para cidades, onde o terreno é caro.
 
 Decidimos por utilizar um terreno de 70 m², que é pequeno, mas é um tamanho bem comum nos bairros mais periféricos de São Paulo e nas áreas que eram favelas antigamente. Podemos utilizar posteriormente terrenos maiores ou menores, mas construir em um terreno menor permite, em ultimo caso, um maior investimento no mesmo. Isso significa poder utilizar um terreno mais valorizado, com mais acesso aos equipamentos e facilidades urbanas. É importante lembrar que morar bem é feito 50% pela casa propriamente dita e 50% do local onde se mora.
 

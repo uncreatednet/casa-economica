@@ -18,13 +18,13 @@ What is the maximum we can do with a minimal cost? What are the solutions most a
 
 ## Max-min house
 
-Our search is for a practical and quality solution, that can be easily executed and that allow to reduce the initial costs to facilitate the financing. We started from two ideas inspired by Aravena to build our "half a good house" project and reduce costs:
+Our search is for a urban, practical and quality solution, that can be easily executed and that allow to reduce the initial costs to facilitate the financing. We started from two ideas inspired by Aravena to build our "half a good house" project and reduce costs:
 
 1. The house can be expanded
 
 2. Part of the finishing can be done later
 
-This is a pilot project. It is developed to be the starting point for other ideas, be adapted case by case, terrain by terrain, family by family.
+This is a pilot project. It is developed to be the starting point for other ideas, be adapted case by case, terrain by terrain, family by family. It is a house designed for cities, where the price of the land is high.
 
 We started using a 70 m² terrain, which is small, but a very common size in peripheral neighbourhoods of São Paulo and areas that were favelas (slums) before. It is of course possible to use bigger terrains (or smaller), but using a small terrain gives a better investment. This means that it is possible to use a better terrain, more expensive, but localised closer to urban equipment and facilities like schools, shops, jobs, etc. It is important to keep in mind that "a good house" depends half on the house itself, half on where this house is situated.
 
@@ -34,7 +34,7 @@ It has, in principle, 50 m². We consider 50 m² as a good quality-cost balance,
 
 ![](render/0016.jpg)
 
-O projeto inclui fundações já calculadas para que no futuro possua um andar superior, o que pode aumentá-lo para até 100m². Para isso, a laje já é recortada para a escada. A cobertura é desmontável e pode ser reaproveitada em cima do andar superior quando o mesmo for construído. 
+The project has foundations already dimensioned to bear a future upper floor, which can raise the floor area up to 100m². The above slab is also already cut to allow the placing of a staircase. The roof is removable and can be reused above the upper floor when it gets built.
 
 ![](render/0015.jpg)
 

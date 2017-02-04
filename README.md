@@ -62,7 +62,7 @@ Esse projeto é totalmente [open source](https://github.com/uncreatednet/casa-ec
 
 ![](render/0014.jpg)
 
-Veja mais:
+-Veja mais:
 
 * [orçamento completo](https://github.com/uncreatednet/casa-economica/blob/master/or%C3%A7amento%20modelo%2001.ods)
 * [arquivo 3D (BIM)](https://github.com/uncreatednet/casa-economica/blob/master/modelo%2001.FCStd)
